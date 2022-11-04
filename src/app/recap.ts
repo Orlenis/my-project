@@ -1,5 +1,5 @@
 //Variables en TS
-const username: string | number = "Jenoz";
+const username: string | number = "Isabel";
 
 //funcion flecha
 const suma = (a: number, b:number)=>{
